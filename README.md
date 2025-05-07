@@ -1,0 +1,7 @@
+- 🔥 Hi, I’m @AumMange007  
+- 👀 I’m interested in full-stack development and building creative software  
+- 🌱 I’m currently learning React and deepening my understanding of its core concepts  
+- 💞️ I’m looking to collaborate on projects that solve real-world problems  
+- 🏙️ How to reach me: [aummange5@gmail.com]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m doing a 30-day coding challenge and haven’t missed a single day—even during my final exams!
