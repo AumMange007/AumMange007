@@ -1,4 +1,4 @@
-- 🔥 Hi, I’m @AumMange007  
+- 🔥 Hi, I’m @AumMange
 - 👀 I’m interested in full-stack development and building creative software  
 - 🌱 I’m currently learning React and deepening my understanding of its core concepts  
 - 💞️ I’m looking to collaborate on projects that solve real-world problems  
